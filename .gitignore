@@ -1,1 +1,10 @@
 /.idea/
+/out/production/Biblioteca/.gitignore
+/out/production/Biblioteca/Author.class
+/out/production/Biblioteca/Biblioteca.iml
+/out/production/Biblioteca/Book.class
+/out/production/Biblioteca/Genre.class
+/out/production/Biblioteca/Library.class
+/out/production/Biblioteca/Loan.class
+/out/production/Biblioteca/Main.class
+/out/production/Biblioteca/User.class
