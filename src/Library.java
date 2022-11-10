@@ -2,7 +2,7 @@ package src;
 
 public class Library {
 
-    private Integer isbn
+    private Integer isbn;
     private String title;
     private String author;
     private String genre;
