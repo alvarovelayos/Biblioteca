@@ -3,10 +3,9 @@ package src;
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
-
-        Library ebook = new Library();
         Scanner ebook1 = new Scanner(System.in);
-
+        Library ebook = new Library();
+        
         System.out.println("Introduce el isbn del libro");
         ebook.setIsbn(ebook1.nextInt());
 
